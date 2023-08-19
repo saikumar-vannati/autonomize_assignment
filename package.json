@@ -1,0 +1,23 @@
+{
+  "name": "autonomize_assignment",
+  "version": "1.0.0",
+  "description": "Assignment for Autonomize",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "Assignment"
+  ],
+  "author": "saikumar-vannati",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
